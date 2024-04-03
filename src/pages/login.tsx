@@ -10,7 +10,7 @@ import Link from '../components/Link'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import Grid from "@mui/material/Grid"
 import SvgIcon from "@mui/material/SvgIcon"
-import { faGoogle, faGithub } from "@fortawesome/free-brands-svg-icons"
+
 import { useRouter } from 'next/router'
 import { KeyboardEvent, useEffect, useState } from 'react'
 
