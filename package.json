@@ -44,7 +44,7 @@
     "bcrypt": "^5.0.1",
     "cli-progress": "^3.11.2",
     "clsx": "^1.2.1",
-    "compression-webpack-plugin": "^10.0.0",
+    "compression-webpack-plugin": "^11.1.0",
     "connect-mongo": "^4.6.0",
     "cross-env": "^7.0.3",
     "eslint": "^8.22.0",
