@@ -154,7 +154,7 @@ function LoginForm() {
                 href={`/auth/google`}
                 startIcon={
                   <SvgIcon>
-                    <FontAwesomeIcon icon={faGoogle} size="lg" />
+                    <FontAwesomeIcon icon={['fab', 'google']} size="lg" />
                   </SvgIcon>
                 }
               >
@@ -167,7 +167,7 @@ function LoginForm() {
                 href={`/auth/github`}
                 startIcon={
                   <SvgIcon>
-                    <FontAwesomeIcon icon={faGithub} size="lg" />
+                    <FontAwesomeIcon icon={['fab', 'github']} size="lg" />
                   </SvgIcon>
                 }
               >
